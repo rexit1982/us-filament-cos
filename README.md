@@ -1,6 +1,6 @@
 # USA based filament companies
 List of filament manufacturers that are head quartered and/or have production in the USA.  
-Open an Issue or a PR if you have an update or a missing company. Last updated: May 21, 2026.
+Open an Issue or a PR if you have an update or a missing company. Last updated: May 22, 2026.
 | Company                                                                              | HQ Location                     | Production Location    | Shipping | PLA | PETG | ASA | ABS | CF/GF Blends | PC | TPU | Nylon | PCTG | Other            |
 | ------------------------------------------------------------------------------------ | ------------------------------- | ---------------------- | -------- | --- | ---- | --- | --- | ------------ | -- | --- | ----- | ---- | ---------------- |
 | [3D INNOVATORS LLC](https://3dinnovatorsofficial.com/shop)                           | Celina, Ohio                    |                        |          | X   | X    |     |     |              |    |     |       |      |                  |
