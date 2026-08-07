@@ -3,28 +3,29 @@ List of filament manufacturers that are head quartered and/or have production in
 Open an Issue or a PR if you have an update or a missing company. Last updated: May 22, 2026.
 | Company                                                                              | HQ Location                     | Production Location    | Shipping | PLA | PETG | ASA | ABS | CF/GF Blends | PC | TPU | Nylon | PCTG | Other            |
 | ------------------------------------------------------------------------------------ | ------------------------------- | ---------------------- | -------- | --- | ---- | --- | --- | ------------ | -- | --- | ----- | ---- | ---------------- |
-| [3D INNOVATORS LLC](https://3dinnovatorsofficial.com/shop)                           | Celina, Ohio                    |                        |          | X   | X    |     |     |              |    |     |       |      |                  |
-| [3D-Fuel](https://www.3dfuel.com)                                                    | Fargo, North Dakota             |                        |          | X   | X    |     | X   |              |    |     |       |      |                  |
-| [3DXTech](https://www.3dxtech.com)                                                   | Grand Rapids, Michigan          |                        |          | X   | X    | X   | X   | X            | X  |     | X     |      | Peek, PEI, Ultem |
-| [Ambrosia (West 3D)](https://ambrosiafilament.com/)                                  | Beaverton, Oregon               | Non-US, PHA is US made |          | X   | X    | X   | X   |              |    |     |       |      | PHA              |
-| [American Filament](https://americanfilament.us)                                     | Huntsville, Alabama             |                        |          | X   | X    |     | X   |              |    | X   |       |      |                  |
-| [Atomic Filament](https://atomicfilament.com)                                        | Kendallville, Indiana           |                        |          | X   | X    | X   | X   | X            |    |     | X     |      |                  |
-| [Coex3D](https://coex3d.com)                                                         | Appleton, Wisconsin             |                        |          | X   | X    | X   | X   |              |    | X   | X     |      |                  |
-| [FilaCube](https://www.filacube.com/)                                                | Houston/Katy, Texas             |                        |          | X   | X    |     | X   |              |    | X   |       |      |                  |
-| [Filamatrix](https://filamatrix.com/)                                                | Chester, Virgina                |                        |          | X   | X    | X   | X   |              | X  |     | X     |      | Kevlar Composite |
-| [Fusion Filaments](https://www.fusionfilaments.com)                                  | Maryland Heights, Missouri      |                        |          | X   | X    | X   | X   |              |    |     |       | X    |                  |
-| [GreenGate3D](https://greengate3d.com)                                               | Bohemia/Long Island, New York   |                        |          |     | X    |     |     |              |    |     |       |      |                  |
-| [IC3D](https://www.ic3dprinters.com)                                                 | Columbus, Ohio                  |                        |          | X   | X    |     | X   |              |    | X   | X     |      |                  |
-| [Lumas Polymers](https://lumaspolymers.com/)                                         | Sioux Fall, South Dakota        | Chaska, Minnesota      |          | X   | X    |     | X   | X            | X  | X   | X     |      | TPE              |
-| [MatterHackers ProSeries](https://www.matterhackers.com/store/c/pro-series-filament) | Lake Forest, California         |                        |          | X   | X    |     | X   |              |    | X   | X     |      |                  |
-| [Numakers](https://numakers.com)                                                     | Richmond, Virgina               | India                  |          | X   | X    | X   | X   |              |    | X   |       |      |                  |
-| [Paramount3D](https://www.paramount-3d.com/)                                         | Bensenville/Wood Dale, Illinois |                        |          | X   | X    | X   | X   |              |    | X   |       |      | FlexPLA, PVA     |
-| [Polar Filament](https://polarfilament.com)                                          | Brighton, Michigan              |                        |          | X   | X    |     |     |              |    |     |       |      |                  |
-| [Printed Solid](https://www.printedsolid.com)                                        | Newark, Delaware                |                        |          | X   | X    | X   | X   |              |    |     |       |      |                  |
-| [Protopasta](https://proto-pasta.com/)                                               | Vancouver, Washington           |                        |          | X   | X    |     |     | X            |    |     |       |      |                  |
-| [Push Plastic](https://www.pushplastic.com)                                          | Springdale, Arkansas            |                        |          | X   | X    |     | X   | X            | X  | X   | X     |      |                  |
-| [Tangled](https://www.tangledfilament.com/)                                          | Nampa/Boise, Idaho              |                        |          | X   |      |     |     |              |    |     |       | X    |                  |
-| [Toner Plastics (Village Plastics)](https://www.villageplastics.com/)                | East Longmeadow, Massachusetts  | Barberton, Ohio        |          | X   | X    | X   | X   |              | X  | X   |       |      | HIPS             |
-| [Two Step Process (Luke's Laboratory)](https://www.lukeslabonline.com/)              | Wrightstown, WI                 | China                  |          |     |      | X   | X   | X            |    |     |       |      | PPC-CF, PET-CF, ABS-FR |
-| [Voxel](https://voxelpla.com/)                                                       | Garden Grove, California        |                        |          | X   | X    |     | X   |              |    | X   |       |      |                  |
-| [ZYLtech Engineering LLC](https://www.zyltech.com)                                   | Houston/Spring, Texas           |                        |          | X   | X    |     | X   | X            |    | X   |       |      |                  |
+| [3D INNOVATORS LLC](https://3dinnovatorsofficial.com/shop) | Celina, Ohio |  |  | X | X |  |  |  |  |  |  |  |  |
+| [3D-Fuel](https://www.3dfuel.com) | Fargo, North Dakota |  |  | X | X |  | X |  |  |  |  |  |  |
+| [3DXTech](https://www.3dxtech.com) | Grand Rapids, Michigan |  |  | X | X | X | X | X | X |  | X |  | Peek, PEI, Ultem |
+| [Ambrosia (West 3D)](https://ambrosiafilament.com/) | Beaverton, Oregon | Non-US, PHA is US made |  | X | X | X | X |  |  |  |  |  | PHA |
+| [American Filament](https://americanfilament.us) | Huntsville, Alabama |  |  | X | X |  | X |  |  | X |  |  |  |
+| [Atomic Filament](https://atomicfilament.com) | Kendallville, Indiana |  |  | X | X | X | X | X |  |  | X |  |  |
+| [Coex3D](https://coex3d.com) | Appleton, Wisconsin |  |  | X | X | X | X |  |  | X | X |  |  |
+| [Dancyn 3D](https://www.dancyn3dprints.com/) | Whippany, NJ |  |  | X | X |  |  |  |  |  |  |  |  |
+| [FilaCube](https://www.filacube.com/) | Houston/Katy, Texas |  |  | X | X |  | X |  |  | X |  |  |  |
+| [Filamatrix](https://filamatrix.com/) | Chester, Virgina |  |  | X | X | X | X |  | X |  | X |  | Kevlar Composite |
+| [Fusion Filaments](https://www.fusionfilaments.com) | Maryland Heights, Missouri |  |  | X | X | X | X |  |  |  |  | X |  |
+| [GreenGate3D](https://greengate3d.com) | Bohemia/Long Island, New York |  |  |  | X |  |  |  |  |  |  |  |  |
+| [IC3D](https://www.ic3dprinters.com) | Columbus, Ohio |  |  | X | X |  | X |  |  | X | X |  |  |
+| [Lumas Polymers](https://lumaspolymers.com/) | Sioux Fall, South Dakota | Chaska, Minnesota |  | X | X |  | X | X | X | X | X |  | TPE |
+| [MatterHackers ProSeries](https://www.matterhackers.com/store/c/pro-series-filament) | Lake Forest, California |  |  | X | X |  | X |  |  | X | X |  |  |
+| [Numakers](https://numakers.com) | Richmond, Virgina | India |  | X | X | X | X |  |  | X |  |  |  |
+| [Paramount3D](https://www.paramount-3d.com/) | Bensenville/Wood Dale, Illinois |  |  | X | X | X | X |  |  | X |  |  | FlexPLA, PVA |
+| [Polar Filament](https://polarfilament.com) | Brighton, Michigan |  |  | X | X |  |  |  |  |  |  |  |  |
+| [Printed Solid](https://www.printedsolid.com) | Newark, Delaware |  |  | X | X | X | X |  |  |  |  |  |  |
+| [Protopasta](https://proto-pasta.com/) | Vancouver, Washington |  |  | X | X |  |  | X |  |  |  |  |  |
+| [Push Plastic](https://www.pushplastic.com) | Springdale, Arkansas |  |  | X | X |  | X | X | X | X | X |  |  |
+| [Tangled](https://www.tangledfilament.com/) | Nampa/Boise, Idaho |  |  | X |  |  |  |  |  |  |  | X |  |
+| [Toner Plastics (Village Plastics)](https://www.villageplastics.com/) | East Longmeadow, Massachusetts | Barberton, Ohio |  | X | X | X | X |  | X | X |  |  | HIPS |
+| [Two Step Process (Luke's Laboratory)](https://www.lukeslabonline.com/) | Wrightstown, WI | China |  |  |  | X | X | X |  |  |  |  | PPC-CF, PET-CF, ABS-FR |
+| [Voxel](https://voxelpla.com/) | Garden Grove, California |  |  | X | X |  | X |  |  | X |  |  |  |
+| [ZYLtech Engineering LLC](https://www.zyltech.com) | Houston/Spring, Texas |  |  | X | X |  | X | X |  | X |  |  |  |
