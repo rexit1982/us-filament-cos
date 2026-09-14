@@ -5,7 +5,7 @@ List of filament manufacturers that are head quartered and/or have production in
 Open an Issue or a PR if you have an update or a missing company. Last updated: May 22, 2026.
 | Company                                                                              | HQ Location                     | Production Location    | Shipping | PLA | PETG | ASA | ABS | CF/GF Blends | PC | TPU | Nylon | PCTG | Other            |
 | ------------------------------------------------------------------------------------ | ------------------------------- | ---------------------- | -------- | --- | ---- | --- | --- | ------------ | -- | --- | ----- | ---- | ---------------- |
-| [3D INNOVATORS LLC](https://3dinnovatorsofficial.com/shop) | Celina, Ohio |  |  | X | X |  |  |  |  |  |  |  |  |
+| [3D INNOVATORS LLC](https://3dinnovatorsofficial.com/shop) | Celina, Ohio |  |  | X |  |  |  |  |  |  |  |  |  |
 | [3D-Fuel](https://www.3dfuel.com) | Fargo, North Dakota |  |  | X | X |  | X |  |  |  |  |  |  |
 | [3DXTech](https://www.3dxtech.com) | Grand Rapids, Michigan |  |  | X | X | X | X | X | X |  | X |  | Peek, PEI, Ultem |
 | [Ambrosia (West 3D)](https://ambrosiafilament.com/) | Beaverton, Oregon | Non-US, PHA is US made |  | X | X | X | X |  |  |  |  |  | PHA |
